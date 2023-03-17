@@ -1,11 +1,14 @@
 ### Compile with truffle
-
+in order to compile a SmartContract use.
+```
 truffle compile
-
+```
 
 ### Deploy 
+```sh
 truffle migrate
-
+truffle migrate --reset
+```
 #### Truffle console
 
 ```sh
